@@ -1,2 +1,1 @@
-# python-project-IK
-ATM Machine Irakli kervalishvili
+# ATM Machine Project by Irakli 
